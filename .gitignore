@@ -37,3 +37,4 @@ out/
 .vscode/
 
 src/main/resources/application.yml
+src/main/resources/RSA-cert_key.p12
